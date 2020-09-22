@@ -1,0 +1,1 @@
+Currently testing only the module that can set and get redis data and transmute between an object and a dictionary.
